@@ -15,5 +15,6 @@ public class CheckEven {
 		System.out.println("is 19 is even : "+isEven.check(19));
 
 	}
+	
 
 }
