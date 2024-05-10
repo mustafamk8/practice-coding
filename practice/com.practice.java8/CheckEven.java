@@ -1,4 +1,4 @@
-package coding.practice.java8;
+package com.practice.java8;
 
 public class CheckEven {
 
